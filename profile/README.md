@@ -1,15 +1,17 @@
-# Hello, we're Esports.me 👋
+# Hello, we're CS2.TEAM 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/EsportsMe/.github/main/profile/esportsme.png" alt="Esports.me" width="500">
+  <img src="https://raw.githubusercontent.com/CS2TEAM/.github/main/profile/cs2team.png" alt="CS2.TEAM" width="500">
 </div>
 
 ---
 
-Esports.me is a team management platform that revolutionises the way players and teams connect.
+Find esports teams and players on CS2.TEAM. 
+
+Level up your gaming identity with our professional esports networking platform.
 
 ## 🌐 Socials
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Esportsme_/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/esports.me)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/company/esportsme)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/CS2TEAM)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/CS2TEAM)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/company/CS2TEAM)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/invite/XfZHVfPr9C/)
