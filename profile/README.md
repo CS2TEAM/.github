@@ -1,7 +1,7 @@
 # Hello, we're CS2.TEAM 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CS2TEAM/.github/main/profile/cs2team.png" alt="CS2.TEAM" width="500">
+  <img src="https://raw.githubusercontent.com/CS2TEAM/.github/main/profile/cs2team.png" alt="CS2.TEAM" width="100">
 </div>
 
 ---
